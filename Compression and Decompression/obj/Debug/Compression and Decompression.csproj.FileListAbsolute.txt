@@ -1,0 +1,10 @@
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\bin\Debug\Compression and Decompression.exe
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\bin\Debug\Compression and Decompression.pdb
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\bin\Debug\Ionic.Zip.dll
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression and Decompression.csprojResolveAssemblyReference.cache
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression_and_Decompression.Form1.resources
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression_and_Decompression.Properties.Resources.resources
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression and Decompression.csproj.GenerateResource.Cache
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression and Decompression.exe
+c:\users\babatunde alo\documents\visual studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression and Decompression.pdb
+C:\Users\babatunde alo\Documents\Visual Studio 2017\Projects\Compression and Decompression\Compression and Decompression\obj\Debug\Compression and Decompression.csproj.CoreCompileInputs.cache
